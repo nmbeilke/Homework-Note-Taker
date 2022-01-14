@@ -40,6 +40,7 @@ Deploying to Heroku.
 
  
  ## Usage
+ ![Screenshot of live note taker site](https://raw.githubusercontent.com/nmbeilke/Homework-Note-Taker/main/Screen%20Shot%202022-01-13%20at%2011.14.26%20PM.png)
  App deployed at live link: https://thawing-savannah-43073.herokuapp.com/
 
 
